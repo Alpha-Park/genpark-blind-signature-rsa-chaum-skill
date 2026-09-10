@@ -1,0 +1,14 @@
+{
+  "name": "genpark-blind-signature-rsa-chaum-skill",
+  "version": "1.0.0",
+  "description": "Chaum blind RSA digital signature scheme allowing privacy-preserving token issuance and anonymous credential verification.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "blind-signature",
+    "chaum-rsa",
+    "privacy-credentials",
+    "anonymous-voting",
+    "cryptography"
+  ]
+}
